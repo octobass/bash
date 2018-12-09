@@ -1,0 +1,17 @@
+#!/bin/bash
+
+echo "What is your favorite Ninja Turtle?"
+
+echo "1 - Raphael."
+echo "2 - Leonardo."
+echo "3 - Michelangelo."
+echo "4 - Donatello."
+
+read ninjaTurtle;
+
+case $ninjaTurtle in
+	1) echo "Raphael is cool, but rude."
+	2) echo "Leonardo leads."
+	3) echo "Michelangelo is a party dude."
+	4) echo "Donatello does machines."
+esac
