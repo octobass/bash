@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "What is your favorite Ninja Turtle?"
+echo "Who is your favorite Ninja Turtle?"
 
 echo "1 - Raphael."
 echo "2 - Leonardo."
